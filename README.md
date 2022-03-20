@@ -1,5 +1,14 @@
 # EESTech Challenge Aveiro 2022
 
+# Participants
+
+[André Clérigo](https://github.com/andreclerigo), 98485  
+[João Amaral](https://github.com/jp-amaral), 98373  
+[Pedro Rocha](https://github.com/PedroRocha9), 98256 
+
+# Standings
+3rd Place
+
 <br>
 
 # Description
@@ -65,3 +74,8 @@ Moreover, within the testset folder you will find the images on which you need t
 ## Columns
 - id - definition of image name
 - category - class
+
+<br>
+
+# Results
+Accuracy - 85,69%
