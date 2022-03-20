@@ -41,7 +41,8 @@ Implement your approach using a Jupyter Notebook, with sufficient but not redund
 
 # Evaluation
 ## Goal
-The goal in this competition is to take an image of the CIFAR-10 dataset, and determine what that digit is. For every in the test set, you should predict the correct label.
+The goal in this competition is to take an image of the CIFAR-10 dataset, and determine what that digit is. For every in the test set, you should predict the correct label.  
+<b>You have 12 hours.</b>
 
 ## Metric
 This competition is evaluated on the categorization accuracy of your predictions (the percentage of images you get correct).
